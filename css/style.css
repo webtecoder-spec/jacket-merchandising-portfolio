@@ -99,7 +99,7 @@ button { border: none; background: none; cursor: pointer; font: inherit; }
 }
 .nav__list {
   display: flex;
-  gap: 2rem;
+  gap: 1.7rem;
 }
 .nav__link {
   font-size: 0.8rem;
